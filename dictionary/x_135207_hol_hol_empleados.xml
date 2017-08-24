@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="HoL_Empleados" max_length="40" name="x_135207_hol_hol_empleados" type="collection">
-        <element label="Codigo_Empleado" mandatory="true" max_length="6" name="codigoempleado" type="integer"/>
+        <element label="CodigoEmpleado" mandatory="true" max_length="6" name="codigoempleado" type="integer"/>
         <element label="NivelJerarquico" max_length="1" name="niveljerarquico" type="integer"/>
         <element label="Nombre" max_length="100" name="nombre" type="string"/>
         <element label="VacacionesXAño" max_length="2" name="vacacionesxano" type="integer"/>

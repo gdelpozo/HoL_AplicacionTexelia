@@ -4,11 +4,11 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description>Cuando se introduzca un codigo, muestro el nombre del empleado</description>
-        <field>codigo_empleado</field>
+        <description/>
+        <field>ano_en_curso</field>
         <global>true</global>
         <messages/>
-        <name>HoL Populate NombreEmpleado</name>
+        <name>Hol Populate Nombre</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
 
@@ -17,43 +17,41 @@
     if (isLoading || newValue === '' || newValue == oldValue) {
         return;
     }
-alert ("hola voy por aqui" + oldValue  + " to " + newValue );
-    // Instantiate the getNombre Script Include 
-    var getNombreEmp = new GlideAjax('GetNombreEmpleado');
-    // Specify the getEmail method
 
-	getNombreEmp.addParam('sysparm_name','getNombre');
-      // Pass the Requested for sys_id
-    getNombreEmp.addParam('sysparm_userID', g_form.getValue('codigoempleado'));
-	// Send the request to the server
-    getNombreEmp.getXML(populateNombreEmp);
-alert ("22hola voy por aqui>" );
+    // Instantiate the GetEmailAddress Script Include 
+    var GetNombreEmp = new GlideAjax('GetNombreEmpleado');
+    // Specify the getEmail method
+    GetNombreEmp.addParam('sysparm_name','getNombre');
+    // Pass the Requested for sys_id
+    GetNombreEmp.addParam('sysparm_userID', g_form.getValue('u_codigoempleado'));
+    // Send the request to the server
+    GetNombreEmp.getXML(populateNombre);
 
 
     // When the response is back from the server
-    function populateNombreEmp(response){
+    function populateNombre(response){
         // Extract the email address from the response, clear any value from the email field, 
         // set new value in the email field
-        var NombreScriptInclude = response.responseXML.documentElement.getAttribute("answer");
+        var NombreFromScriptInclude = response.responseXML.documentElement.getAttribute("answer");
         g_form.clearValue('u_nombreempleado');
-        g_form.setValue('u_nombreempleado',NombreScriptInclude);
+        g_form.setValue('u_nombreempleado',NombreFromScriptInclude);
     }
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-23 12:31:18</sys_created_on>
+        <sys_created_on>2017-08-24 16:17:27</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>8e1884410f780300e9678ecce1050ef7</sys_id>
-        <sys_mod_count>18</sys_mod_count>
-        <sys_name>HoL Populate NombreEmpleado</sys_name>
+        <sys_id>a0b90e5d0ff00300e9678ecce1050e85</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hol Populate Nombre</sys_name>
         <sys_overrides/>
         <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
         <sys_policy/>
         <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
-        <sys_update_name>sys_script_client_8e1884410f780300e9678ecce1050ef7</sys_update_name>
+        <sys_update_name>sys_script_client_a0b90e5d0ff00300e9678ecce1050e85</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-24 09:38:42</sys_updated_on>
+        <sys_updated_on>2017-08-24 16:17:27</sys_updated_on>
         <table>x_135207_hol_hol_detalle_ausencias</table>
         <type>onChange</type>
         <ui_type>0</ui_type>
