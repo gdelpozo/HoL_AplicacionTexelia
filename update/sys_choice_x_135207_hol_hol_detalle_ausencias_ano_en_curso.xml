@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="ano_en_curso" table="x_135207_hol_hol_detalle_ausencias" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ano_en_curso</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2017</label>
+            <language>en</language>
+            <name>x_135207_hol_hol_detalle_ausencias</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-23 10:50:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>84e573780f380300e9678ecce1050e71</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-23 10:50:38</sys_updated_on>
+            <value>2017</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>ano_en_curso</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2018</label>
+            <language>en</language>
+            <name>x_135207_hol_hol_detalle_ausencias</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-23 10:50:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>44e573780f380300e9678ecce1050e72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-23 10:50:38</sys_updated_on>
+            <value>2018</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>ano_en_curso</element>
+            <name>x_135207_hol_hol_detalle_ausencias</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-23 10:50:38</sys_created_on>
+            <sys_id>00e573780f380300e9678ecce1050e72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ano_en_curso</sys_name>
+            <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
+            <sys_update_name>sys_choice_x_135207_hol_hol_detalle_ausencias_ano_en_curso</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-23 10:50:38</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

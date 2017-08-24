@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_135207_hol.GetNombreEmpleado</api_name>
+        <client_callable>true</client_callable>
+        <description>Script Include para devolver el nombre de un empleado, accediendo con el código</description>
+        <name>GetNombreEmpleado</name>
+        <script><![CDATA[var GetNombreEmpleado = Class.create();
+GetNombreEmpleado.prototype = Object.extendsObject(global.AbstractAjaxProcessor, {
+
+
+    // Define the getEmail function.  
+    // Create a GlideRecord for the User table.
+    // Use the sysparm_userID passed from the client side to retrieve a record from the User table.
+    // Return the email address for the requested record
+    getNombre: function() {
+        var userRecord = new GlideRecord("HoL_Empleados");
+
+		ALERT("FSDFKSJADFFDSAFS SADFSADF");
+		
+		userRecord.get(this.getParameter('codigoempleado'));
+        return userRecord.nombre + '';
+    },
+    type: 'GetNombreEmpleado'
+});
+]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 12:22:33</sys_created_on>
+        <sys_id>3b19cc010f780300e9678ecce1050e86</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>GetNombreEmpleado</sys_name>
+        <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
+        <sys_update_name>sys_script_include_3b19cc010f780300e9678ecce1050e86</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-24 07:50:49</sys_updated_on>
+    </sys_script_include>
+</record_update>

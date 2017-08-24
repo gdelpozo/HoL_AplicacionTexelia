@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-23 09:53:08</sys_created_on>
+        <sys_id>bdb8e3b00f380300e9678ecce1050e7a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_135207_hol_hol_empleados.x_135207_hol.hol_empleados_user</sys_name>
+        <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
+        <sys_security_acl display_value="x_135207_hol_hol_empleados">f5b8e3b00f380300e9678ecce1050e6b</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_bdb8e3b00f380300e9678ecce1050e7a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-23 09:53:08</sys_updated_on>
+        <sys_user_role display_value="x_135207_hol.hol_empleados_user" name="x_135207_hol.hol_empleados_user">a5b863b00f380300e9678ecce1050e8d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
