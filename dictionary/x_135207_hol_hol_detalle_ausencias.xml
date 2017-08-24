@@ -7,7 +7,7 @@
                 <element label="2018" sequence="1" value="2018"/>
             </choice>
         </element>
-        <element label="CodigoEmpleado" max_length="6" name="codigoempleado" reference="x_135207_hol_hol_empleados" type="integer"/>
+        <element label="CodigoEmpleado" mandatory="true" max_length="6" name="codigoempleado" reference="x_135207_hol_hol_empleados" type="integer"/>
         <element label="FechaDesde" mandatory="true" max_length="40" name="fechadesde" type="glide_date"/>
         <element label="FechaHasta" mandatory="true" max_length="40" name="fechahasta" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="NombreEmpleado" max_length="100" name="nombreempleado" type="string"/>
@@ -18,6 +18,6 @@
                 <element label="Otros" sequence="2" value="O"/>
             </choice>
         </element>
-        <element attributes="edge_encryption_enabled=true" dependent="codigo_empleado" dependent_on_field="codigo_empleado" label="w_NombreEmpleado" max_length="80" name="u_string_1" read_only="true" type="string" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" dependent="codigo_empleado" dependent_on_field="codigo_empleado" label="w_NombreEmpleado" mandatory="true" max_length="80" name="u_string_1" type="string" use_dependent_field="true"/>
     </element>
 </database>

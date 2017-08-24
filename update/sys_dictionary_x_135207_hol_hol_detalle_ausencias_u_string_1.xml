@@ -27,12 +27,12 @@
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
+        <mandatory>true</mandatory>
         <max_length>80</max_length>
         <name>x_135207_hol_hol_detalle_ausencias</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -48,14 +48,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-08-23 12:09:49</sys_created_on>
         <sys_id>080804410f780300e9678ecce1050eee</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>w_NombreEmpleado</sys_name>
         <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
         <sys_policy/>
         <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
         <sys_update_name>sys_dictionary_x_135207_hol_hol_detalle_ausencias_u_string_1</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-24 09:29:05</sys_updated_on>
+        <sys_updated_on>2017-08-24 16:21:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
