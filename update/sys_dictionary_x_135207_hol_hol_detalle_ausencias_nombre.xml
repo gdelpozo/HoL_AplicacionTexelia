@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="nombreempleado" table="x_135207_hol_hol_detalle_ausencias">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="nombre" table="x_135207_hol_hol_detalle_ausencias">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -10,7 +10,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>NombreEmpleado</column_label>
+        <column_label>nombre</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -23,12 +23,12 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>nombreempleado</element>
+        <element>nombre</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>false</mandatory>
-        <max_length>100</max_length>
+        <mandatory>true</mandatory>
+        <max_length>80</max_length>
         <name>x_135207_hol_hol_detalle_ausencias</name>
         <next_element/>
         <primary>false</primary>
@@ -46,16 +46,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-08-23 11:56:09</sys_created_on>
-        <sys_id>b7d488cd0f380300e9678ecce1050e3c</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>NombreEmpleado</sys_name>
+        <sys_created_on>2017-08-25 08:54:03</sys_created_on>
+        <sys_id>b75eedad0f780300e9678ecce1050ef2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>nombre</sys_name>
         <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
         <sys_policy/>
         <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
-        <sys_update_name>sys_dictionary_x_135207_hol_hol_detalle_ausencias_nombreempleado</sys_update_name>
+        <sys_update_name>sys_dictionary_x_135207_hol_hol_detalle_ausencias_nombre</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-23 11:56:09</sys_updated_on>
+        <sys_updated_on>2017-08-25 08:54:03</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

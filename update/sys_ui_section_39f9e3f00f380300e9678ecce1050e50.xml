@@ -2,86 +2,58 @@
 <record_update>
     <sys_ui_section caption="" section_id="39f9e3f00f380300e9678ecce1050e50" sys_domain="global" table="x_135207_hol_hol_empleados" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>nombre</element>
+            <element>codigoempleado</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-23 10:00:28</sys_created_on>
-            <sys_id>8d6ae7f00f380300e9678ecce1050e0e</sys_id>
+            <sys_created_on>2017-08-25 08:56:15</sys_created_on>
+            <sys_id>c0eea5ed0f780300e9678ecce1050e78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">39f9e3f00f380300e9678ecce1050e50</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-23 10:00:28</sys_updated_on>
+            <sys_updated_on>2017-08-25 08:56:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.begin_split</element>
+            <element>nombre</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-23 10:00:28</sys_created_on>
-            <sys_id>016ae7f00f380300e9678ecce1050e0f</sys_id>
+            <sys_created_on>2017-08-25 08:56:15</sys_created_on>
+            <sys_id>44eea5ed0f780300e9678ecce1050e78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">39f9e3f00f380300e9678ecce1050e50</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-23 10:00:28</sys_updated_on>
+            <sys_updated_on>2017-08-25 08:56:15</sys_updated_on>
             <sys_user/>
-            <type>.begin_split</type>
+            <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>niveljerarquico</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-23 10:00:28</sys_created_on>
-            <sys_id>816ae7f00f380300e9678ecce1050e0f</sys_id>
+            <sys_created_on>2017-08-25 08:56:15</sys_created_on>
+            <sys_id>c4eea5ed0f780300e9678ecce1050e78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">39f9e3f00f380300e9678ecce1050e50</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-23 10:00:28</sys_updated_on>
+            <sys_updated_on>2017-08-25 08:56:15</sys_updated_on>
             <sys_user/>
             <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>codigoempleado</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-23 10:00:28</sys_created_on>
-            <sys_id>056ae7f00f380300e9678ecce1050e0f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">39f9e3f00f380300e9678ecce1050e50</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-23 10:00:28</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-23 10:00:28</sys_created_on>
-            <sys_id>856ae7f00f380300e9678ecce1050e0f</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">39f9e3f00f380300e9678ecce1050e50</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-23 10:00:28</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>vacacionesxano</element>
-            <position>5</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-23 10:00:28</sys_created_on>
-            <sys_id>096ae7f00f380300e9678ecce1050e0f</sys_id>
+            <sys_created_on>2017-08-25 08:56:15</sys_created_on>
+            <sys_id>48eea5ed0f780300e9678ecce1050e78</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">39f9e3f00f380300e9678ecce1050e50</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-23 10:00:28</sys_updated_on>
+            <sys_updated_on>2017-08-25 08:56:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

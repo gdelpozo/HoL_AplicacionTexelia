@@ -4,62 +4,62 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>codigoempleado</element>
-            <list_id display_value="x_135207_hol_hol_empleados" element="NULL" name="x_135207_hol_hol_empleados" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ba7cfdd50ff00300e9678ecce1050e8c</list_id>
+            <list_id display_value="x_135207_hol_hol_empleados" element="NULL" name="x_135207_hol_hol_empleados" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5f9ee1ed0f780300e9678ecce1050e6c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-24 15:17:13</sys_created_on>
-            <sys_id>b67cfdd50ff00300e9678ecce1050e8d</sys_id>
+            <sys_created_on>2017-08-25 08:55:06</sys_created_on>
+            <sys_id>d39ee1ed0f780300e9678ecce1050e6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-24 15:17:13</sys_updated_on>
+            <sys_updated_on>2017-08-25 08:55:06</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>nombre</element>
-            <list_id display_value="x_135207_hol_hol_empleados" element="NULL" name="x_135207_hol_hol_empleados" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ba7cfdd50ff00300e9678ecce1050e8c</list_id>
+            <list_id display_value="x_135207_hol_hol_empleados" element="NULL" name="x_135207_hol_hol_empleados" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5f9ee1ed0f780300e9678ecce1050e6c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-24 15:17:13</sys_created_on>
-            <sys_id>7e7cfdd50ff00300e9678ecce1050e8d</sys_id>
+            <sys_created_on>2017-08-25 08:55:06</sys_created_on>
+            <sys_id>579ee1ed0f780300e9678ecce1050e6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-24 15:17:13</sys_updated_on>
+            <sys_updated_on>2017-08-25 08:55:06</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>niveljerarquico</element>
-            <list_id display_value="x_135207_hol_hol_empleados" element="NULL" name="x_135207_hol_hol_empleados" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ba7cfdd50ff00300e9678ecce1050e8c</list_id>
+            <list_id display_value="x_135207_hol_hol_empleados" element="NULL" name="x_135207_hol_hol_empleados" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5f9ee1ed0f780300e9678ecce1050e6c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-24 15:17:13</sys_created_on>
-            <sys_id>fe7cfdd50ff00300e9678ecce1050e8d</sys_id>
+            <sys_created_on>2017-08-25 08:55:06</sys_created_on>
+            <sys_id>d79ee1ed0f780300e9678ecce1050e6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-24 15:17:13</sys_updated_on>
+            <sys_updated_on>2017-08-25 08:55:06</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>vacacionesxano</element>
-            <list_id display_value="x_135207_hol_hol_empleados" element="NULL" name="x_135207_hol_hol_empleados" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">ba7cfdd50ff00300e9678ecce1050e8c</list_id>
+            <list_id display_value="x_135207_hol_hol_empleados" element="NULL" name="x_135207_hol_hol_empleados" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">5f9ee1ed0f780300e9678ecce1050e6c</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-24 15:17:13</sys_created_on>
-            <sys_id>727cfdd50ff00300e9678ecce1050e8e</sys_id>
+            <sys_created_on>2017-08-25 08:55:06</sys_created_on>
+            <sys_id>5b9ee1ed0f780300e9678ecce1050e6d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-24 15:17:13</sys_updated_on>
+            <sys_updated_on>2017-08-25 08:55:06</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -73,10 +73,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-24 15:17:13</sys_created_on>
+            <sys_created_on>2017-08-25 08:55:06</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>ba7cfdd50ff00300e9678ecce1050e8c</sys_id>
+            <sys_id>5f9ee1ed0f780300e9678ecce1050e6c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_135207_hol_hol_empleados</sys_name>
             <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
@@ -84,7 +84,7 @@
             <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
             <sys_update_name>sys_ui_list_x_135207_hol_hol_empleados_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-24 15:17:13</sys_updated_on>
+            <sys_updated_on>2017-08-25 08:55:06</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
