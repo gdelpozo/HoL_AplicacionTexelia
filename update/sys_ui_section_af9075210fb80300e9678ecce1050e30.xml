@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="" section_id="39f9e3f00f380300e9678ecce1050e50" sys_domain="global" table="x_135207_hol_hol_empleados" version="3" view="">
+    <sys_ui_section caption="New Section" section_id="af9075210fb80300e9678ecce1050e30" sys_domain="global" table="x_135207_hol_hol_empleados" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>codigoempleado</element>
+            <element>niveljerarquico</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-08-25 09:03:52</sys_created_on>
-            <sys_id>2f9075210fb80300e9678ecce1050e3c</sys_id>
+            <sys_id>6b9075210fb80300e9678ecce1050e44</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">39f9e3f00f380300e9678ecce1050e50</sys_ui_section>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">af9075210fb80300e9678ecce1050e30</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-08-25 09:03:52</sys_updated_on>
             <sys_user/>
@@ -20,37 +20,51 @@
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-08-25 09:03:52</sys_created_on>
-            <sys_id>af9075210fb80300e9678ecce1050e3c</sys_id>
+            <sys_id>eb9075210fb80300e9678ecce1050e44</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">39f9e3f00f380300e9678ecce1050e50</sys_ui_section>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">af9075210fb80300e9678ecce1050e30</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-08-25 09:03:52</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>vacacionesxano</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-08-25 09:03:52</sys_created_on>
+            <sys_id>6f9075210fb80300e9678ecce1050e44</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_135207_hol_hol_empleados" sys_domain="global" view="Default view">af9075210fb80300e9678ecce1050e30</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-08-25 09:03:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>New Section</caption>
             <header>false</header>
             <name>x_135207_hol_hol_empleados</name>
             <roles/>
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-23 09:58:35</sys_created_on>
+            <sys_created_on>2017-08-25 09:03:52</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>39f9e3f00f380300e9678ecce1050e50</sys_id>
+            <sys_id>af9075210fb80300e9678ecce1050e30</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_135207_hol_hol_empleados</sys_name>
+            <sys_name>New Section</sys_name>
             <sys_overrides/>
             <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
             <sys_policy/>
             <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
-            <sys_update_name>sys_ui_section_39f9e3f00f380300e9678ecce1050e50</sys_update_name>
+            <sys_update_name>sys_ui_section_af9075210fb80300e9678ecce1050e30</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-23 09:58:35</sys_updated_on>
+            <sys_updated_on>2017-08-25 09:03:52</sys_updated_on>
             <sys_user/>
-            <title>true</title>
+            <title>false</title>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
         </sys_ui_section>

@@ -5,85 +5,29 @@
             <element>codigoempleado</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-25 08:56:53</sys_created_on>
-            <sys_id>d90f25ed0f780300e9678ecce1050ed4</sys_id>
+            <sys_created_on>2017-08-25 09:02:38</sys_created_on>
+            <sys_id>a150f1210fb80300e9678ecce1050e19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-25 08:56:53</sys_updated_on>
+            <sys_updated_on>2017-08-25 09:02:38</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fechadesde</element>
+            <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-25 08:56:53</sys_created_on>
-            <sys_id>5d0f25ed0f780300e9678ecce1050ed4</sys_id>
+            <sys_created_on>2017-08-25 09:02:38</sys_created_on>
+            <sys_id>2550f1210fb80300e9678ecce1050e19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-25 08:56:53</sys_updated_on>
+            <sys_updated_on>2017-08-25 09:02:38</sys_updated_on>
             <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>fechahasta</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-25 08:56:53</sys_created_on>
-            <sys_id>dd0f25ed0f780300e9678ecce1050ed4</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-25 08:56:53</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>ano_en_curso</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-25 08:56:53</sys_created_on>
-            <sys_id>510f25ed0f780300e9678ecce1050ed5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-25 08:56:53</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>tipoausencia</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-25 08:56:53</sys_created_on>
-            <sys_id>d10f25ed0f780300e9678ecce1050ed5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-25 08:56:53</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>nombre</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-25 08:56:53</sys_created_on>
-            <sys_id>550f25ed0f780300e9678ecce1050ed5</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-25 08:56:53</sys_updated_on>
-            <sys_user/>
-            <type/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
             <caption/>
