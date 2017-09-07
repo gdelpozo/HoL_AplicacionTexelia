@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>HoL_Empleados</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>HoL_Empleados</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Application File" name="Application File">fdc6f350db010300bff8fe1ebf9619a0</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2017-09-04 08:20:25</sys_created_on>
+        <sys_id>a4968170db410300bff8fe1ebf9619c5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>HoL_Empleados</sys_name>
+        <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
+        <sys_update_name>sys_wizard_answer_a4968170db410300bff8fe1ebf9619c5</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-09-04 08:20:25</sys_updated_on>
+        <table/>
+        <target_url>x_135207_hol_hol_empleados.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

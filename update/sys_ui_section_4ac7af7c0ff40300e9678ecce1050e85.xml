@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_ui_section caption="" section_id="4ac7af7c0ff40300e9678ecce1050e85" sys_domain="global" table="x_135207_hol_hol_detalle_ausencias" version="3" view="">
+    <sys_ui_section caption="Solicitud de Ausencias" section_id="4ac7af7c0ff40300e9678ecce1050e85" sys_domain="global" table="x_135207_hol_hol_detalle_ausencias" version="3" view="">
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>codigoempleado</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-25 09:02:38</sys_created_on>
-            <sys_id>a150f1210fb80300e9678ecce1050e19</sys_id>
+            <sys_created_on>2017-09-07 11:35:47</sys_created_on>
+            <sys_id>3700d1b1db410300bff8fe1ebf961977</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
+            <sys_ui_section caption="Solicitud de Ausencias" display_value="Solicitud de Ausencias" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-25 09:02:38</sys_updated_on>
+            <sys_updated_on>2017-09-07 11:35:47</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,18 +19,18 @@
             <element>.split</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-25 09:02:38</sys_created_on>
-            <sys_id>2550f1210fb80300e9678ecce1050e19</sys_id>
+            <sys_created_on>2017-09-07 11:35:47</sys_created_on>
+            <sys_id>b700d1b1db410300bff8fe1ebf961977</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
+            <sys_ui_section caption="Solicitud de Ausencias" display_value="Solicitud de Ausencias" name="x_135207_hol_hol_detalle_ausencias" sys_domain="global" view="Default view">4ac7af7c0ff40300e9678ecce1050e85</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-25 09:02:38</sys_updated_on>
+            <sys_updated_on>2017-09-07 11:35:47</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_section action="INSERT_OR_UPDATE">
-            <caption/>
+            <caption>Solicitud de Ausencias</caption>
             <header>false</header>
             <name>x_135207_hol_hol_detalle_ausencias</name>
             <roles/>
@@ -40,15 +40,15 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>4ac7af7c0ff40300e9678ecce1050e85</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_name>x_135207_hol_hol_detalle_ausencias</sys_name>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Solicitud de Ausencias</sys_name>
             <sys_overrides/>
             <sys_package display_value="HoL" source="x_135207_hol">77d5e7300f380300e9678ecce1050ee2</sys_package>
             <sys_policy/>
             <sys_scope display_value="HoL">77d5e7300f380300e9678ecce1050ee2</sys_scope>
             <sys_update_name>sys_ui_section_4ac7af7c0ff40300e9678ecce1050e85</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-23 09:49:03</sys_updated_on>
+            <sys_updated_on>2017-09-07 10:33:21</sys_updated_on>
             <sys_user/>
             <title>true</title>
             <view display_value="Default view" name="NULL">Default view</view>
